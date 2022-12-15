@@ -1,0 +1,11 @@
+.navbar-collapse{
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-around;
+    size: 100px;
+}
+
+.navbar-brand{
+    padding-left: 100px;
+    padding-right: 100px;
+}
